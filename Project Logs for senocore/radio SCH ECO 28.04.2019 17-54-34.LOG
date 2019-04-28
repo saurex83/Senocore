@@ -1,0 +1,30 @@
+Replace Part ANT1 PCB ANTENNA 2.4Ghz in W:\Projects\Senocore\radio.SchDoc with PCB ANTENNA 2.4Ghz from antena.SchLib
+Replace Part C12 0.5p SMD 0402 in W:\Projects\Senocore\radio.SchDoc with 0.5p SMD 0402 from capasitors.SchLib
+Replace Part C13 5.6p SMD 0402 in W:\Projects\Senocore\radio.SchDoc with 5.6p SMD 0402 from capasitors.SchLib
+Replace Part C14 27p SMD 0402 in W:\Projects\Senocore\radio.SchDoc with 27p SMD 0402 from capasitors.SchLib
+Replace Part C15 27p SMD 0402 in W:\Projects\Senocore\radio.SchDoc with 27p SMD 0402 from capasitors.SchLib
+Replace Part C16 0.5p SMD 0402 in W:\Projects\Senocore\radio.SchDoc with 0.5p SMD 0402 from capasitors.SchLib
+Replace Part C17 5.6p SMD 0402 in W:\Projects\Senocore\radio.SchDoc with 5.6p SMD 0402 from capasitors.SchLib
+Replace Part C18 100n SMD 0402 in W:\Projects\Senocore\radio.SchDoc with 100n SMD 0402 from capasitors.SchLib
+Replace Part C19 100n SMD 0402 in W:\Projects\Senocore\radio.SchDoc with 100n SMD 0402 from capasitors.SchLib
+Replace Part C20 100n SMD 0402 in W:\Projects\Senocore\radio.SchDoc with 100n SMD 0402 from capasitors.SchLib
+Replace Part C21 100n SMD 0402 in W:\Projects\Senocore\radio.SchDoc with 100n SMD 0402 from capasitors.SchLib
+Replace Part C22 33p SMD 0402 in W:\Projects\Senocore\radio.SchDoc with 33p SMD 0402 from capasitors.SchLib
+Replace Part C23 33p SMD 0402 in W:\Projects\Senocore\radio.SchDoc with 33p SMD 0402 from capasitors.SchLib
+Replace Part C24 33p SMD 0402 in W:\Projects\Senocore\radio.SchDoc with 33p SMD 0402 from capasitors.SchLib
+Replace Part C25 100n SMD 0402 in W:\Projects\Senocore\radio.SchDoc with 100n SMD 0402 from capasitors.SchLib
+Replace Part C26 100n SMD 0402 in W:\Projects\Senocore\radio.SchDoc with 100n SMD 0402 from capasitors.SchLib
+Replace Part C27 10u SMD 0805 in W:\Projects\Senocore\radio.SchDoc with 10u SMD 0805 from capasitors.SchLib
+Replace Part C28 10u SMD 0805 in W:\Projects\Senocore\radio.SchDoc with 10u SMD 0805 from capasitors.SchLib
+Replace Part DA3 CC2420 in W:\Projects\Senocore\radio.SchDoc with CC2420 from radio.SchLib
+Replace Part DA3 CC2420 in W:\Projects\Senocore\radio.SchDoc with CC2420 from radio.SchLib
+Replace Part DA3 CC2420 in W:\Projects\Senocore\radio.SchDoc with CC2420 from radio.SchLib
+Replace Part DA3 CC2420 in W:\Projects\Senocore\radio.SchDoc with CC2420 from radio.SchLib
+Replace Part DA3 CC2420 in W:\Projects\Senocore\radio.SchDoc with CC2420 from radio.SchLib
+Replace Part L2 IND 5.6nH SMD 0402 in W:\Projects\Senocore\radio.SchDoc with IND 5.6nH SMD 0402 from inductors.SchLib
+Replace Part L3 IND 7.5nH SMD 0402 in W:\Projects\Senocore\radio.SchDoc with IND 7.5nH SMD 0402 from inductors.SchLib
+Replace Part L4 IND 7.5nH SMD 0402 in W:\Projects\Senocore\radio.SchDoc with IND 7.5nH SMD 0402 from inductors.SchLib
+Replace Part L5 IND 10uH SMD 0805 in W:\Projects\Senocore\radio.SchDoc with IND 10uH SMD 0805 from inductors.SchLib
+Replace Part R23 1R 1% SMD 0402 in W:\Projects\Senocore\radio.SchDoc with 1R 1% SMD 0402 from resistors.SchLib
+Replace Part R24 43K 1% SMD 0402 in W:\Projects\Senocore\radio.SchDoc with 43K 1% SMD 0402 from resistors.SchLib
+Replace Part ZQ1 ZQ 16.000M 12pF 20ppm in W:\Projects\Senocore\radio.SchDoc with ZQ 16.000M 12pF 20ppm from generator.SchLib

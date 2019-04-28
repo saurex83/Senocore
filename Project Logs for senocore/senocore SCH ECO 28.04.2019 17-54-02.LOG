@@ -1,0 +1,28 @@
+Replace Part C29 10u SMD 0805 in W:\Projects\Senocore\senocore.SchDoc with 10u SMD 0805 from capasitors.SchLib
+Replace Part C30 100n SMD 0402 in W:\Projects\Senocore\senocore.SchDoc with 100n SMD 0402 from capasitors.SchLib
+Replace Part C31 100n SMD 0402 in W:\Projects\Senocore\senocore.SchDoc with 100n SMD 0402 from capasitors.SchLib
+Replace Part C32 10u SMD 0805 in W:\Projects\Senocore\senocore.SchDoc with 10u SMD 0805 from capasitors.SchLib
+Replace Part C33 100n SMD 0402 in W:\Projects\Senocore\senocore.SchDoc with 100n SMD 0402 from capasitors.SchLib
+Replace Part C34 100n SMD 0402 in W:\Projects\Senocore\senocore.SchDoc with 100n SMD 0402 from capasitors.SchLib
+Replace Part DA4 REF3320 in W:\Projects\Senocore\senocore.SchDoc with REF3320 from ic.SchLib
+Replace Part DD1 DS2411 in W:\Projects\Senocore\senocore.SchDoc with DS2411 from ic.SchLib
+Replace Part DD2 SHT10 in W:\Projects\Senocore\senocore.SchDoc with SHT10 from sensors.SchLib
+Replace Part DD3 M25P80V6 in W:\Projects\Senocore\senocore.SchDoc with M25P80V6 from ic.SchLib
+Replace Part DD4 M430F1611 in W:\Projects\Senocore\senocore.SchDoc with M430F1611 from mcu.SchLib
+Replace Part DD4 M430F1611 in W:\Projects\Senocore\senocore.SchDoc with M430F1611 from mcu.SchLib
+Replace Part DD4 M430F1611 in W:\Projects\Senocore\senocore.SchDoc with M430F1611 from mcu.SchLib
+Replace Part DD4 M430F1611 in W:\Projects\Senocore\senocore.SchDoc with M430F1611 from mcu.SchLib
+Replace Part HL1 LED RED SMD 0602 in W:\Projects\Senocore\senocore.SchDoc with LED RED SMD 0602 from leds.SchLib
+Replace Part HL2 LED GREEN SMD 0602 in W:\Projects\Senocore\senocore.SchDoc with LED GREEN SMD 0602 from leds.SchLib
+Replace Part HL3 LED BLUE SMD 0602 in W:\Projects\Senocore\senocore.SchDoc with LED BLUE SMD 0602 from leds.SchLib
+Replace Part L6 IND 10uH SMD 0805 in W:\Projects\Senocore\senocore.SchDoc with IND 10uH SMD 0805 from inductors.SchLib
+Replace Part R25 2.2K 1% SMD 0402 in W:\Projects\Senocore\senocore.SchDoc with 2.2K 1% SMD 0402 from resistors.SchLib
+Replace Part R26 470R 1% SMD 0402 in W:\Projects\Senocore\senocore.SchDoc with 470R 1% SMD 0402 from resistors.SchLib
+Replace Part R27 220R 1% SMD 0402 in W:\Projects\Senocore\senocore.SchDoc with 220R 1% SMD 0402 from resistors.SchLib
+Replace Part R28 100R 1% SMD 0402 in W:\Projects\Senocore\senocore.SchDoc with 100R 1% SMD 0402 from resistors.SchLib
+Replace Part R29 10K 1% SMD 0402 in W:\Projects\Senocore\senocore.SchDoc with 10K 1% SMD 0402 from resistors.SchLib
+Replace Part R30 10K 1% SMD 0402 in W:\Projects\Senocore\senocore.SchDoc with 10K 1% SMD 0402 from resistors.SchLib
+Replace Part R31 10K 1% SMD 0402 in W:\Projects\Senocore\senocore.SchDoc with 10K 1% SMD 0402 from resistors.SchLib
+Replace Part R32 100K 1% SMD 0402 in W:\Projects\Senocore\senocore.SchDoc with 100K 1% SMD 0402 from resistors.SchLib
+Replace Part VT1 IRLML6402 in W:\Projects\Senocore\senocore.SchDoc with IRLML6402 from transistors.SchLib
+Replace Part ZQ2 ZQ 32.768K 12.5pF 20ppm in W:\Projects\Senocore\senocore.SchDoc with ZQ 32.768K 12.5pF 20ppm from generator.SchLib
