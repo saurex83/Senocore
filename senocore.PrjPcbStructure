@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=senocore.SchDoc
+Record=SheetSymbol|SourceDocument=senocore.SchDoc|Designator=R|SchDesignator=R|FileName=radio.SchDoc|SymbolType=Normal|RawFileName=radio.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=senocore.SchDoc|Designator=S|SchDesignator=S|FileName=NTC connector.SchDoc|SymbolType=Normal|RawFileName=NTC connector.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
