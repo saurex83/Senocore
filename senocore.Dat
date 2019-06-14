@@ -1,100 +1,40 @@
-﻿Field=#~Integer~#~50|Field=Designator~String~Designator~159|Field=PartNumber~String~PartNumber~275|Field=Comment~String~Comment~218|Field=Description~String~Description~217|Field=Quantity~Integer~Quantity~71|Field=Unit Price~String~Unit Price~71|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~senocore.PrjPcb|ReportField=ProjectFullPath~W:\Projects\Senocore\senocore.PrjPcb|ReportField=Title~Bill of Materials For Project [senocore.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~99|ReportField=ReportTime~17:53:33|ReportField=ReportDate~22.05.2019|ReportField=ReportDateTime~22.05.2019 17:53:33|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~22.05.2019|ReportField=CurrentTime~16:52:13|ReportField=Date~|ReportField=DocumentFullPathAndName~W:\Projects\Senocore\senocore.SchDoc|ReportField=DocumentName~senocore.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~22.05.2019|ReportField=Organization~|ReportField=ProjectName~senocore.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~senocore.PrjPcb|ReportField=DataSourceFullPath~W:\Projects\Senocore\senocore.PrjPcb|ReportField=PCBConfigurationName~Default Configuration|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
-1|ANT1||PCB ANTENNA 2.4Ghz|PCB antenna 2.4Ghz|1|
-2|C1||100n|0402 SMD|1|
-3|C2||100n|0402 SMD|1|
-4|C3||100n|0402 SMD|1|
-5|C4||100n|0402 SMD|1|
-6|C5|GRM155R71H103KA88D|10n|0402 SMD|1|0.14
-7|C6|GRM155R71H103KA88D|10n|0402 SMD|1|0.14
-8|C7|GRM155R71H103KA88D|10n|0402 SMD|1|0.14
-9|C8|GRM155R71H103KA88D|10n|0402 SMD|1|0.14
-10|C9|GRM155R71H103KA88D|10n|0402 SMD|1|0.14
-11|C10|GRM155R71H103KA88D|10n|0402 SMD|1|0.14
-12|C11|GRM155R71H103KA88D|10n|0402 SMD|1|0.14
-13|C12|GRM1555C1HR50BA01D|0.5p|+/- 0.25pF NP0 SMD 0402|1|0.69
-14|C13|CC0402CRNPO9BN5R6|5.6p|+/- 0.25pF NP0 SMD 0402|1|0.27
-15|C14|CL05C270JB5NNNC|27p|0402 SMD|1|0.24
-16|C15|CL05C270JB5NNNC|27p|0402 SMD|1|0.24
-17|C16|GRM1555C1HR50BA01D|0.5p|+/- 0.25pF NP0 SMD 0402|1|0.69
-18|C17|CC0402CRNPO9BN5R6|5.6p|+/- 0.25pF NP0 SMD 0402|1|0.27
-19|C18||100n|0402 SMD|1|
-20|C19||100n|0402 SMD|1|
-21|C20||100n|0402 SMD|1|
-22|C21||100n|0402 SMD|1|
-23|C22|CC0402JRNPO9BN330|33p|0402 SMD|1|0.24
-24|C23|CC0402JRNPO9BN330|33p|0402 SMD|1|0.24
-25|C24|CC0402JRNPO9BN330|33p|0402 SMD|1|0.24
-26|C25||100n|0402 SMD|1|
-27|C26||100n|0402 SMD|1|
-28|C27||10u|0805 SMD|1|
-29|C28||10u|0805 SMD|1|
-30|C29||10u|0805 SMD|1|
-31|C30||100n|0402 SMD|1|
-32|C31||100n|0402 SMD|1|
-33|C32||10u|0805 SMD|1|
-34|C33||100n|0402 SMD|1|
-35|C34||100n|0402 SMD|1|
-36|DA1||OPA4376|Opamp  2.2-5.5 V, Offset 5μV|1|
-37|DA2||OPA4376|Opamp  2.2-5.5 V, Offset 5μV|1|
-38|DA3|CC2420RGZR|CC2420|2.4 GHz transiver|1|439
-39|DA4|REF3320AID|2.048V|Reference 2.048V|1|67
-40|DD1|DS2411R+T&R|DS2411|Unic 48bit serial code. Family code 0x01|1|130
-41|DD2|MSP430F1611IPM|M430F1611|MCU|1|1480
-42|DD3|SHT10|SHT10|Temp and hum sensor|1|998
-43|DD4|M25P80-VMW|M25P80V6|Serial memory 2.7-3.6V, 8 Mbit (1 Mbyte)|1|130
-44|HL1|L-1394IDT|RED|10 mA, V=2.5 V|1|8
-45|HL2|L-1394GDT|GREEN|10 mA, V=2.5 V|1|8
-46|HL3|L-1394YDT|YELLOW|10 mA, V=2.5 V|1|8
-47|L1|LQM21FN100M80L|10uH|0805 SMD|1|4.4
-48|L2|LQG15HS5N6S02D|5.6nH|SMD 0402 5%|1|1.1
-49|L3|LQG15HS7N5J02D|7.5nH|SMD 0402 5%|1|1.1
-50|L4|LQG15HS7N5J02D|7.5nH|SMD 0402 5%|1|1.1
-51|L5|LQM21FN100M80L|10uH|0805 SMD|1|4.4
-52|L6|LQM21FN100M80L|10uH|0805 SMD|1|4.4
-53|MH1||Mount hole pcb 3mm|PCB mount hole|1|
-54|MH2||Mount hole pcb 3mm|PCB mount hole|1|
-55|MH3||Mount hole pcb 3mm|PCB mount hole|1|
-56|MH4||Mount hole pcb 3mm|PCB mount hole|1|
-57|R1|RC0402FR-0720KL|20K|1% 0402 SMD 0.063W|1|0.11
-58|R2|RC0402FR-0710KL|10K|1% 0402 SMD 0.063W|1|0.1
-59|R3|RC0402FR-0710KL|10K|1% 0402 SMD 0.063W|1|0.1
-60|R4|RC0402FR-0720KL|20K|1% 0402 SMD 0.063W|1|0.11
-61|R5|RC0402FR-0720KL|20K|1% 0402 SMD 0.063W|1|0.11
-62|R6|RC0402FR-0710KL|10K|1% 0402 SMD 0.063W|1|0.1
-63|R7|RC0402FR-0710KL|10K|1% 0402 SMD 0.063W|1|0.1
-64|R8|RC0402FR-0720KL|20K|1% 0402 SMD 0.063W|1|0.11
-65|R9|RC0402FR-0720KL|20K|1% 0402 SMD 0.063W|1|0.11
-66|R10|RC0402FR-0720KL|20K|1% 0402 SMD 0.063W|1|0.11
-67|R11|RC0402FR-0720KL|20K|1% 0402 SMD 0.063W|1|0.11
-68|R12|RC0402FR-0710KL|10K|1% 0402 SMD 0.063W|1|0.1
-69|R13|RC0402FR-0720KL|20K|1% 0402 SMD 0.063W|1|0.11
-70|R14|RC0402FR-0710KL|10K|1% 0402 SMD 0.063W|1|0.1
-71|R15|RC0402FR-0710KL|10K|1% 0402 SMD 0.063W|1|0.1
-72|R16|RC0402FR-0720KL|20K|1% 0402 SMD 0.063W|1|0.11
-73|R17|RC0402FR-0710KL|10K|1% 0402 SMD 0.063W|1|0.1
-74|R18|RC0402FR-0710KL|10K|1% 0402 SMD 0.063W|1|0.1
-75|R19|RC0402FR-0710KL|10K|1% 0402 SMD 0.063W|1|0.1
-76|R20|RC0402FR-0710KL|10K|1% 0402 SMD 0.063W|1|0.1
-77|R21|RC0402FR-0710KL|10K|1% 0402 SMD 0.063W|1|0.1
-78|R22|RC0402FR-0710KL|10K|1% 0402 SMD 0.063W|1|0.1
-79|R23|RC0402FR-0710KL|10K|1% 0402 SMD 0.063W|1|0.1
-80|R24|RC0402FR-071RL|1|1% 0402 SMD 0.063W|1|0.1
-81|R25|RC0402FR-0743KL|43K|1% 0402 SMD 0.063W|1|0.11
-82|R26|RC0402FR-071RL|1|1% 0402 SMD 0.063W|1|0.1
-83|R27|RC0402FR-072K2L|2.2K|1% 0402 SMD 0.063W|1|0.11
-84|R28|RC0402FR-07470RL|470|1% 0402 SMD 0.063W|1|0.1
-85|R29|RC0402FR-07220RL|220|1% 0402 SMD 0.063W|1|0.1
-86|R30|RC0402FR-07470RL|470|1% 0402 SMD 0.063W|1|0.1
-87|R31|RC0402FR-07100RL|100|1% 0402 SMD 0.063W|1|0.11
-88|R32|RC0402FR-0710KL|10K|1% 0402 SMD 0.063W|1|0.1
-89|R33|RC0402FR-0710KL|10K|1% 0402 SMD 0.063W|1|0.1
-90|R34|RC0402FR-0710KL|10K|1% 0402 SMD 0.063W|1|0.1
-91|R35|RC0402FR-07100KL|100K|1% 0402 SMD 0.063W|1|0.1
-92|SA1|MSK-12D19|MSK-12D19|Slide switch 3 pin|1|
-93|VT1|IRLML6401TRPBF|IRLML6402|p-mosfet   -20V 3.7A|1|5.4
-94|X1|43045-1601 molex|Microfit3.0 16 pins R thru hole|Step 3mm, dual row 16 pins, thru hole|1|450
-95|X2||DS-1026-06 2X4|Step 2mm 2x4 height 4.3mm|1|
-96|XS1||Keystone AA Battery Clip|Button Contact|1|
-97|XS2||Keystone AA Battery Clip|Button Contact|1|
-98|ZQ1|16.000MHzHC-49SM|16.000M|Load 12pF 20ppm|1|15
-99|ZQ2|32768Hz(2x6mm)|32.768K|Load 12.5pF 20ppm|1|12
+﻿Field=#~Integer~#~50|Field=Designator~String~Designator~224|Field=Comment~String~Comment~228|Field=Description~String~Description~191|Field=Quantity~Integer~Quantity~90|Field=Unit Price~String~Unit Price~90|Field=PartNumber~String~PartNumber~126|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~senocore.PrjPcb|ReportField=ProjectFullPath~W:\Projects\Senocore\senocore.PrjPcb|ReportField=Title~Bill of Materials For Project [senocore.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~95|ReportField=ReportTime~19:28:59|ReportField=ReportDate~14.06.2019|ReportField=ReportDateTime~14.06.2019 19:28:59|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~14.06.2019|ReportField=CurrentTime~19:27:29|ReportField=Date~|ReportField=DocumentFullPathAndName~W:\Projects\Senocore\senocore.SchDoc|ReportField=DocumentName~senocore.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~14.06.2019|ReportField=Organization~|ReportField=ProjectName~senocore.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~senocore.PrjPcb|ReportField=DataSourceFullPath~W:\Projects\Senocore\senocore.PrjPcb|ReportField=PCBConfigurationName~Default Configuration|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|ANT1|PCB ANTENNA 2.4Ghz|PCB antenna 2.4Ghz|1||
+2|C1, C2, C3, C4, C6, C8, C10, C12, C17, C18, C23, C24, C27|100n|0402 SMD|13||
+3|C5, C11|5.6p|+/- 0.25pF NP0 SMD 0402|2|0.27|CC0402CRNPO9BN5R6
+4|C7, C9|0.5p|+/- 0.25pF NP0 SMD 0402|2|0.69|GRM1555C1HR50BA01D
+5|C13, C15, C16|33p|0402 SMD|3|0.24|CC0402JRNPO9BN330
+6|C14, C21, C22, C25, C26, C28|10u|SMD TYPE A, 0805 SMD, 0805 SMD, SMD TYPE A, 0805 SMD, 0805 SMD|6||
+7|C19, C20|27p|0402 SMD|2|0.24|CL05C270JB5NNNC
+8|DA1, DA2|OPA4376|Opamp  2.2-5.5 V, Offset 5μV|2||
+9|DA3|CC2420|2.4 GHz transiver|1|439|CC2420RGZR
+10|DA4|2.048V|Reference 2.048V|1|67|REF3320AID
+11|DD1|M25P80V6|Serial memory 2.7-3.6V, 8 Mbit (1 Mbyte)|1|130|M25P80-VMW
+12|DD2|M430F1611|MCU|1|1480|MSP430F1611IPM
+13|DD3|DS2411|Unic 48bit serial code. Family code 0x01|1|130|DS2411R+T&R
+14|DD4|SHT10|Temp and hum sensor|1|998|SHT10
+15|HL1|RED|10 mA, V=2.5 V|1|8|L-1394IDT
+16|HL2|GREEN|10 mA, V=2.5 V|1|8|L-1394GDT
+17|HL3|YELLOW|10 mA, V=2.5 V|1|8|L-1394YDT
+18|L1, L5, L6|10uH|0805 SMD|3|4.4|LQM21FN100M80L
+19|L2, L4|7.5nH|SMD 0402 5%|2|1.1|LQG15HS7N5J02D
+20|L3|5.6nH|SMD 0402 5%|1|1.1|LQG15HS5N6S02D
+21|MH1, MH2, MH3, MH4|Mount hole pcb 3mm|PCB mount hole|4||
+22|R1, R2, R3, R4, R19, R20, R21, R22, R23|20K|1% 0402 SMD 0.063W|9|0.11|RC0402FR-0720KL
+23|R5, R6, R7, R8, R9, R10, R11, R12, R13, R14, R15, R16, R17, R18, R31, R33, R34|10K|1% 0402 SMD 0.063W|17|0.1|RC0402FR-0710KL
+24|R24|43K|1% 0402 SMD 0.063W|1|0.11|RC0402FR-0743KL
+25|R25|0|1% 0402 SMD 0.063W|1|0.1|RC0402FR-071RL
+26|R26, R27|750K|1% 0402 SMD 0.063W|2||
+27|R28|1|1% 0402 SMD 0.063W|1|0.1|RC0402FR-071RL
+28|R29, R35|470|1% 0402 SMD 0.063W|2|0.1|RC0402FR-07470RL
+29|R30|100K|1% 0402 SMD 0.063W|1|0.1|RC0402FR-07100KL
+30|R32|2.2K|1% 0402 SMD 0.063W|1|0.11|RC0402FR-072K2L
+31|R36|220|1% 0402 SMD 0.063W|1|0.1|RC0402FR-07220RL
+32|R37|100|1% 0402 SMD 0.063W|1|0.11|RC0402FR-07100RL
+33|SA1|MSK-12D19|Slide switch 3 pin|1||MSK-12D19
+34|VT1|IRLML5103|p-mosfet   -30V 0.76A Vgs=-1V|1|9|IRLML5103TRPBF
+35|X1|Microfit3.0 16 pins R thru hole|Step 3mm, dual row 16 pins, thru hole|1|450|43045-1601 molex
+36|X2|DS-1026-06 2X4|Step 2mm 2x4 height 4.3mm|1||
+37|XS1, XS2|Keystone AA Battery Clip|Button Contact|2||
+38|ZQ1|16.000M|Load 12pF 20ppm|1|15|16.000MHzHC-49SM
+39|ZQ2|32.768K|Load 12.5pF 20ppm|1|12|32768Hz(2x6mm)

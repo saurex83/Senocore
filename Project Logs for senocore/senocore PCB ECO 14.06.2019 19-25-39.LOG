@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=CC2420_VREG Pin=R26-1
+Removed Pin From Net: NetName=GND Pin=R26-2
+Removed Member From Class: ClassName=R Member=R26
+Added Component: Designator=R28(RES0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WebLink"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CC2420_VREG Pin=R28-1
+Added Pin To Net: NetName=GND Pin=R28-2
+Added Pin To Net: NetName=NetR28_1 Pin=VT1-2
+Added Member To Class: ClassName=R Member=Component R28 750K

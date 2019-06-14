@@ -1,0 +1,31 @@
+Removed Member From Class: ClassName=senocore Member=C12
+Removed Member From Class: ClassName=senocore Member=C16
+Removed Member From Class: ClassName=senocore Member=C20
+Removed Member From Class: ClassName=R Member=R32
+Added Pin To Net: NetName=VBAT Pin=VT1-2
+Added Member To Class: ClassName=R Member=Component C5 5.6p
+Added Member To Class: ClassName=R Member=Component C6 100n
+Added Member To Class: ClassName=R Member=Component C7 0.5p
+Added Member To Class: ClassName=R Member=Component C8 100n
+Added Member To Class: ClassName=R Member=Component C9 0.5p
+Added Member To Class: ClassName=R Member=Component C10 100n
+Added Member To Class: ClassName=R Member=Component C11 5.6p
+Added Member To Class: ClassName=R Member=Component C14 10u
+Added Member To Class: ClassName=R Member=Component C15 33p
+Added Member To Class: ClassName=senocore Member=Component C21 10u
+Added Member To Class: ClassName=senocore Member=Component C23 100n
+Added Member To Class: ClassName=senocore Member=Component C24 100n
+Added Member To Class: ClassName=senocore Member=Component C25 10u
+Added Member To Class: ClassName=senocore Member=Component C26 10u
+Added Member To Class: ClassName=senocore Member=Component C27 100n
+Added Member To Class: ClassName=S Member=Component R5 10K
+Added Member To Class: ClassName=S Member=Component R6 10K
+Added Member To Class: ClassName=S Member=Component R11 10K
+Added Member To Class: ClassName=S Member=Component R13 10K
+Added Member To Class: ClassName=S Member=Component R15 10K
+Added Member To Class: ClassName=S Member=Component R22 20K
+Added Member To Class: ClassName=S Member=Component R23 20K
+Added Member To Class: ClassName=R Member=Component R25 0
+Added Member To Class: ClassName=R Member=Component R27 750K
+Added Member To Class: ClassName=senocore Member=Component R28 1
+Added Member To Class: ClassName=senocore Member=Component R29 470

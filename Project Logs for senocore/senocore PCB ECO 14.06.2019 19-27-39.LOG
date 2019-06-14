@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NetR28_1 Pin=VT1-2
+Removed Member From Class: ClassName=R Member=R28
+Change Component Comment : Designator=VT1 Old Comment=IRLML6402 New Comment=IRLML5103
+Change Component Designator: OldDesignator=R28 NewDesignator=R26
+Added Pin To Net: NetName=VBAT Pin=VT1-2
+Added Pin To Net: NetName=NetR28_1 Pin=VT1-3
+Added Member To Class: ClassName=R Member=Component R26 750K

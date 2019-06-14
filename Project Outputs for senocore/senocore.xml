@@ -1,0 +1,83 @@
+<?xml version = "1.0" ?>
+<?xml-stylesheet type="text/xsl" href="senocore.xsl"?>
+<!DOCTYPE GRID [
+  <!ELEMENT GRID (BANDS, COLUMNS, ROWS*)>
+  <!ATTLIST GRID ExportVersion CDATA #REQUIRED>
+  <!ELEMENT BANDS (BAND*)>
+  <!ELEMENT BAND EMPTY>
+  <!ATTLIST BAND Index CDATA #REQUIRED>
+  <!ATTLIST BAND Caption CDATA #IMPLIED>
+  <!ELEMENT COLUMNS (COLUMN*)>
+  <!ELEMENT COLUMN EMPTY>
+  <!ATTLIST COLUMN Name CDATA #REQUIRED>
+  <!ATTLIST COLUMN Caption CDATA #IMPLIED>
+  <!ATTLIST COLUMN Index CDATA #REQUIRED>
+  <!ATTLIST COLUMN BandIndex CDATA #REQUIRED>
+  <!ATTLIST COLUMN RowIndex CDATA #REQUIRED>
+  <!ATTLIST COLUMN ColIndex CDATA #REQUIRED>
+  <!ATTLIST COLUMN Width CDATA #IMPLIED>
+  <!ELEMENT GROUP (GROUP*, ROW*)>
+  <!ATTLIST GROUP GroupText CDATA #IMPLIED>
+  <!ELEMENT ROWS (ROW*)>
+  <!ELEMENT ROW EMPTY>
+  <!ATTLIST ROW Designator CDATA #IMPLIED>
+  <!ATTLIST ROW Comment CDATA #IMPLIED>
+  <!ATTLIST ROW Description CDATA #IMPLIED>
+  <!ATTLIST ROW Quantity CDATA #IMPLIED>
+  <!ATTLIST ROW Unit_Price CDATA #IMPLIED>
+  <!ATTLIST ROW PartNumber CDATA #IMPLIED>
+]>
+<GRID ExportVersion="1.0">
+  <BANDS>
+    <BAND Index="0" Caption=""></BAND>
+  </BANDS>
+  <COLUMNS>
+    <COLUMN Name="Designator" Caption="Designator" Index="0" BandIndex="0" RowIndex="0" ColIndex="0" Width="224"></COLUMN>
+    <COLUMN Name="Comment" Caption="Comment" Index="1" BandIndex="0" RowIndex="0" ColIndex="1" Width="228"></COLUMN>
+    <COLUMN Name="Description" Caption="Description" Index="2" BandIndex="0" RowIndex="0" ColIndex="2" Width="191"></COLUMN>
+    <COLUMN Name="Quantity" Caption="Quantity" Index="3" BandIndex="0" RowIndex="0" ColIndex="3" Width="90"></COLUMN>
+    <COLUMN Name="Unit_Price" Caption="Unit Price" Index="4" BandIndex="0" RowIndex="0" ColIndex="4" Width="90"></COLUMN>
+    <COLUMN Name="PartNumber" Caption="PartNumber" Index="5" BandIndex="0" RowIndex="0" ColIndex="5" Width="126"></COLUMN>
+  </COLUMNS>
+  <ROWS>
+    <ROW Designator="ANT1" Comment="PCB ANTENNA 2.4Ghz" Description="PCB antenna 2.4Ghz" Quantity="1" Unit_Price="" PartNumber=""></ROW>
+    <ROW Designator="C1, C2, C3, C4, C6, C8, C10, C12, C17, C18, C23, C24, C27" Comment="100n" Description="0402 SMD" Quantity="13" Unit_Price="" PartNumber=""></ROW>
+    <ROW Designator="C5, C11" Comment="5.6p" Description="+/- 0.25pF NP0 SMD 0402" Quantity="2" Unit_Price="0.27" PartNumber="CC0402CRNPO9BN5R6"></ROW>
+    <ROW Designator="C7, C9" Comment="0.5p" Description="+/- 0.25pF NP0 SMD 0402" Quantity="2" Unit_Price="0.69" PartNumber="GRM1555C1HR50BA01D"></ROW>
+    <ROW Designator="C13, C15, C16" Comment="33p" Description="0402 SMD" Quantity="3" Unit_Price="0.24" PartNumber="CC0402JRNPO9BN330"></ROW>
+    <ROW Designator="C14, C21, C22, C25, C26, C28" Comment="10u" Description="SMD TYPE A, 0805 SMD, 0805 SMD, SMD TYPE A, 0805 SMD, 0805 SMD" Quantity="6" Unit_Price="" PartNumber=""></ROW>
+    <ROW Designator="C19, C20" Comment="27p" Description="0402 SMD" Quantity="2" Unit_Price="0.24" PartNumber="CL05C270JB5NNNC"></ROW>
+    <ROW Designator="DA1, DA2" Comment="OPA4376" Description="Opamp  2.2-5.5 V, Offset 5&#956;V" Quantity="2" Unit_Price="" PartNumber=""></ROW>
+    <ROW Designator="DA3" Comment="CC2420" Description="2.4 GHz transiver" Quantity="1" Unit_Price="439" PartNumber="CC2420RGZR"></ROW>
+    <ROW Designator="DA4" Comment="2.048V" Description="Reference 2.048V" Quantity="1" Unit_Price="67" PartNumber="REF3320AID"></ROW>
+    <ROW Designator="DD1" Comment="M25P80V6" Description="Serial memory 2.7-3.6V, 8 Mbit &#40;1 Mbyte&#41;" Quantity="1" Unit_Price="130" PartNumber="M25P80-VMW"></ROW>
+    <ROW Designator="DD2" Comment="M430F1611" Description="MCU" Quantity="1" Unit_Price="1480" PartNumber="MSP430F1611IPM"></ROW>
+    <ROW Designator="DD3" Comment="DS2411" Description="Unic 48bit serial code. Family code 0x01" Quantity="1" Unit_Price="130" PartNumber="DS2411R+T&#38;R"></ROW>
+    <ROW Designator="DD4" Comment="SHT10" Description="Temp and hum sensor" Quantity="1" Unit_Price="998" PartNumber="SHT10"></ROW>
+    <ROW Designator="HL1" Comment="RED" Description="10 mA, V&#61;2.5 V" Quantity="1" Unit_Price="8" PartNumber="L-1394IDT"></ROW>
+    <ROW Designator="HL2" Comment="GREEN" Description="10 mA, V&#61;2.5 V" Quantity="1" Unit_Price="8" PartNumber="L-1394GDT"></ROW>
+    <ROW Designator="HL3" Comment="YELLOW" Description="10 mA, V&#61;2.5 V" Quantity="1" Unit_Price="8" PartNumber="L-1394YDT"></ROW>
+    <ROW Designator="L1, L5, L6" Comment="10uH" Description="0805 SMD" Quantity="3" Unit_Price="4.4" PartNumber="LQM21FN100M80L"></ROW>
+    <ROW Designator="L2, L4" Comment="7.5nH" Description="SMD 0402 5&#37;" Quantity="2" Unit_Price="1.1" PartNumber="LQG15HS7N5J02D"></ROW>
+    <ROW Designator="L3" Comment="5.6nH" Description="SMD 0402 5&#37;" Quantity="1" Unit_Price="1.1" PartNumber="LQG15HS5N6S02D"></ROW>
+    <ROW Designator="MH1, MH2, MH3, MH4" Comment="Mount hole pcb 3mm" Description="PCB mount hole" Quantity="4" Unit_Price="" PartNumber=""></ROW>
+    <ROW Designator="R1, R2, R3, R4, R19, R20, R21, R22, R23" Comment="20K" Description="1&#37; 0402 SMD 0.063W" Quantity="9" Unit_Price="0.11" PartNumber="RC0402FR-0720KL"></ROW>
+    <ROW Designator="R5, R6, R7, R8, R9, R10, R11, R12, R13, R14, R15, R16, R17, R18, R31, R33, R34" Comment="10K" Description="1&#37; 0402 SMD 0.063W" Quantity="17" Unit_Price="0.1" PartNumber="RC0402FR-0710KL"></ROW>
+    <ROW Designator="R24" Comment="43K" Description="1&#37; 0402 SMD 0.063W" Quantity="1" Unit_Price="0.11" PartNumber="RC0402FR-0743KL"></ROW>
+    <ROW Designator="R25" Comment="0" Description="1&#37; 0402 SMD 0.063W" Quantity="1" Unit_Price="0.1" PartNumber="RC0402FR-071RL"></ROW>
+    <ROW Designator="R26, R27" Comment="750K" Description="1&#37; 0402 SMD 0.063W" Quantity="2" Unit_Price="" PartNumber=""></ROW>
+    <ROW Designator="R28" Comment="1" Description="1&#37; 0402 SMD 0.063W" Quantity="1" Unit_Price="0.1" PartNumber="RC0402FR-071RL"></ROW>
+    <ROW Designator="R29, R35" Comment="470" Description="1&#37; 0402 SMD 0.063W" Quantity="2" Unit_Price="0.1" PartNumber="RC0402FR-07470RL"></ROW>
+    <ROW Designator="R30" Comment="100K" Description="1&#37; 0402 SMD 0.063W" Quantity="1" Unit_Price="0.1" PartNumber="RC0402FR-07100KL"></ROW>
+    <ROW Designator="R32" Comment="2.2K" Description="1&#37; 0402 SMD 0.063W" Quantity="1" Unit_Price="0.11" PartNumber="RC0402FR-072K2L"></ROW>
+    <ROW Designator="R36" Comment="220" Description="1&#37; 0402 SMD 0.063W" Quantity="1" Unit_Price="0.1" PartNumber="RC0402FR-07220RL"></ROW>
+    <ROW Designator="R37" Comment="100" Description="1&#37; 0402 SMD 0.063W" Quantity="1" Unit_Price="0.11" PartNumber="RC0402FR-07100RL"></ROW>
+    <ROW Designator="SA1" Comment="MSK-12D19" Description="Slide switch 3 pin" Quantity="1" Unit_Price="" PartNumber="MSK-12D19"></ROW>
+    <ROW Designator="VT1" Comment="IRLML5103" Description="p-mosfet   -30V 0.76A Vgs&#61;-1V" Quantity="1" Unit_Price="9" PartNumber="IRLML5103TRPBF"></ROW>
+    <ROW Designator="X1" Comment="Microfit3.0 16 pins R thru hole" Description="Step 3mm, dual row 16 pins, thru hole" Quantity="1" Unit_Price="450" PartNumber="43045-1601 molex"></ROW>
+    <ROW Designator="X2" Comment="DS-1026-06 2X4" Description="Step 2mm 2x4 height 4.3mm" Quantity="1" Unit_Price="" PartNumber=""></ROW>
+    <ROW Designator="XS1, XS2" Comment="Keystone AA Battery Clip" Description="Button Contact" Quantity="2" Unit_Price="" PartNumber=""></ROW>
+    <ROW Designator="ZQ1" Comment="16.000M" Description="Load 12pF 20ppm" Quantity="1" Unit_Price="15" PartNumber="16.000MHzHC-49SM"></ROW>
+    <ROW Designator="ZQ2" Comment="32.768K" Description="Load 12.5pF 20ppm" Quantity="1" Unit_Price="12" PartNumber="32768Hz&#40;2x6mm&#41;"></ROW>
+  </ROWS>
+</GRID>
