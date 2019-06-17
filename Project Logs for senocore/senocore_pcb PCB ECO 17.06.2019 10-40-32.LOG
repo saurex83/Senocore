@@ -1,0 +1,588 @@
+Change Component Comment : Designator=R26 Old Comment=1 New Comment=750K
+Change Component Comment : Designator=VT1 Old Comment=IRLML6402 New Comment=IRLML5103
+Change Component Designator: OldDesignator=C12 NewDesignator=C7
+Change Component Designator: OldDesignator=C13 NewDesignator=C5
+Change Component Designator: OldDesignator=C14 NewDesignator=C19
+Change Component Designator: OldDesignator=C15 NewDesignator=C20
+Change Component Designator: OldDesignator=C16 NewDesignator=C9
+Change Component Designator: OldDesignator=C17 NewDesignator=C11
+Change Component Designator: OldDesignator=C18 NewDesignator=C6
+Change Component Designator: OldDesignator=C19 NewDesignator=C8
+Change Component Designator: OldDesignator=C20 NewDesignator=C10
+Change Component Designator: OldDesignator=C21 NewDesignator=C12
+Change Component Designator: OldDesignator=C22 NewDesignator=C13
+Change Component Designator: OldDesignator=C23 NewDesignator=C15
+Change Component Designator: OldDesignator=C24 NewDesignator=C16
+Change Component Designator: OldDesignator=C25 NewDesignator=C17
+Change Component Designator: OldDesignator=C26 NewDesignator=C18
+Change Component Designator: OldDesignator=C29 NewDesignator=C21
+Change Component Designator: OldDesignator=C31 NewDesignator=C27
+Change Component Designator: OldDesignator=C32 NewDesignator=C22
+Change Component Designator: OldDesignator=C34 NewDesignator=C23
+Change Component Designator: OldDesignator=DD1 NewDesignator=DD3
+Change Component Designator: OldDesignator=DD3 NewDesignator=DD4
+Change Component Designator: OldDesignator=DD4 NewDesignator=DD1
+Change Component Designator: OldDesignator=L2 NewDesignator=L3
+Change Component Designator: OldDesignator=L3 NewDesignator=L4
+Change Component Designator: OldDesignator=L4 NewDesignator=L2
+Change Component Designator: OldDesignator=R2 NewDesignator=R7
+Change Component Designator: OldDesignator=R3 NewDesignator=R16
+Change Component Designator: OldDesignator=R4 NewDesignator=R19
+Change Component Designator: OldDesignator=R5 NewDesignator=R2
+Change Component Designator: OldDesignator=R6 NewDesignator=R8
+Change Component Designator: OldDesignator=R7 NewDesignator=R17
+Change Component Designator: OldDesignator=R8 NewDesignator=R20
+Change Component Designator: OldDesignator=R9 NewDesignator=R22
+Change Component Designator: OldDesignator=R10 NewDesignator=R23
+Change Component Designator: OldDesignator=R11 NewDesignator=R3
+Change Component Designator: OldDesignator=R12 NewDesignator=R9
+Change Component Designator: OldDesignator=R13 NewDesignator=R4
+Change Component Designator: OldDesignator=R14 NewDesignator=R10
+Change Component Designator: OldDesignator=R15 NewDesignator=R18
+Change Component Designator: OldDesignator=R16 NewDesignator=R21
+Change Component Designator: OldDesignator=R25 NewDesignator=R24
+Change Component Designator: OldDesignator=R27 NewDesignator=R32
+Change Component Designator: OldDesignator=R28 NewDesignator=R35
+Change Component Designator: OldDesignator=R29 NewDesignator=R36
+Change Component Designator: OldDesignator=R30 NewDesignator=R29
+Change Component Designator: OldDesignator=R31 NewDesignator=R37
+Change Component Designator: OldDesignator=R32 NewDesignator=R34
+Change Component Designator: OldDesignator=R33 NewDesignator=R31
+Change Component Designator: OldDesignator=R34 NewDesignator=R33
+Change Component Designator: OldDesignator=R35 NewDesignator=R30
+Change component parameters: Designator = "R26"; Footprint = "RES0402"; UniqueID = "\ATFQRTBW\IHHFLUKT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Unit Price"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "WebLink"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "VT1"; Footprint = "SOT-23-3"; UniqueID = "\NBDPCPUY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "IRLML5103TRPBF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Chipidipc"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Unit Price"; Value = "9"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "WebLink"; Value = "https://www.chipdip.ru/product/irlml5103tr"; VariantName = "[No Variations]"
+Added Component: Designator=C14(CapSMDA)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WebLink"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C24(CAP0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WebLink"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C25(CapSMDA)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WebLink"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C26(CAP0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WebLink"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=MH1(mount holes 3mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WebLink"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=MH2(mount holes 3mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WebLink"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=MH3(mount holes 3mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WebLink"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=MH4(mount holes 3mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WebLink"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R5(RES0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0402FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Terraelectronica"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WebLink"; Value = "tps://www.terraelectronica.ru/product/358779"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RES0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0402FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Terraelectronica"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WebLink"; Value = "tps://www.terraelectronica.ru/product/358779"; VariantName = "[No Variations]"
+Added Component: Designator=R11(RES0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0402FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Terraelectronica"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WebLink"; Value = "tps://www.terraelectronica.ru/product/358779"; VariantName = "[No Variations]"
+Added Component: Designator=R12(RES0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0402FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Terraelectronica"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WebLink"; Value = "tps://www.terraelectronica.ru/product/358779"; VariantName = "[No Variations]"
+Added Component: Designator=R13(RES0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0402FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Terraelectronica"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WebLink"; Value = "tps://www.terraelectronica.ru/product/358779"; VariantName = "[No Variations]"
+Added Component: Designator=R14(RES0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0402FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Terraelectronica"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WebLink"; Value = "tps://www.terraelectronica.ru/product/358779"; VariantName = "[No Variations]"
+Added Component: Designator=R15(RES0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0402FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Terraelectronica"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WebLink"; Value = "tps://www.terraelectronica.ru/product/358779"; VariantName = "[No Variations]"
+Added Component: Designator=R25(RES0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0402FR-071RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Terraelectronica"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WebLink"; Value = "https://www.terraelectronica.ru/product/870639"; VariantName = "[No Variations]"
+Added Component: Designator=R27(RES0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WebLink"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R28(RES0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0402FR-071RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Terraelectronica"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WebLink"; Value = "https://www.terraelectronica.ru/product/870639"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetANT1_1 Pin=ANT1-1
+Added Pin To Net: NetName=GND Pin=ANT1-2
+Added Pin To Net: NetName=SW-VCC Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=SW-VCC Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=VREF_2.048 Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=VREF_2.048_FILT Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=NetANT1_1 Pin=C5-1
+Added Pin To Net: NetName=RADIO-AVDD Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=RADIO-AVDD Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=RADIO-AVDD Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=RADIO-AVDD Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=RADIO-AVDD Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C13-2
+Added Pin To Net: NetName=RADIO-AVDD Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C14-2
+Added Pin To Net: NetName=RADIO-AVDD Pin=C15-1
+Added Pin To Net: NetName=GND Pin=C15-2
+Added Pin To Net: NetName=RADIO-AVDD Pin=C16-1
+Added Pin To Net: NetName=GND Pin=C16-2
+Added Pin To Net: NetName=VBAT Pin=C17-1
+Added Pin To Net: NetName=GND Pin=C17-2
+Added Pin To Net: NetName=RADIO-VDD Pin=C18-1
+Added Pin To Net: NetName=GND Pin=C18-2
+Added Pin To Net: NetName=GND Pin=C19-2
+Added Pin To Net: NetName=GND Pin=C20-2
+Added Pin To Net: NetName=SW-VCC Pin=C21-1
+Added Pin To Net: NetName=GND Pin=C21-2
+Added Pin To Net: NetName=VREF_2.048 Pin=C22-1
+Added Pin To Net: NetName=GND Pin=C22-2
+Added Pin To Net: NetName=SH_VDD Pin=C23-1
+Added Pin To Net: NetName=GND Pin=C23-2
+Added Pin To Net: NetName=VREF_2.048 Pin=C24-1
+Added Pin To Net: NetName=GND Pin=C24-2
+Added Pin To Net: NetName=VDD Pin=C25-1
+Added Pin To Net: NetName=GND Pin=C25-2
+Added Pin To Net: NetName=VBAT Pin=C26-1
+Added Pin To Net: NetName=GND Pin=C26-2
+Added Pin To Net: NetName=VDD Pin=C27-1
+Added Pin To Net: NetName=GND Pin=C27-2
+Added Pin To Net: NetName=VDD Pin=C28-1
+Added Pin To Net: NetName=GND Pin=C28-2
+Added Pin To Net: NetName=AIN_1 Pin=DA1-1
+Added Pin To Net: NetName=NetDA1_2 Pin=DA1-2
+Added Pin To Net: NetName=TEMP-1 Pin=DA1-3
+Added Pin To Net: NetName=SW-VCC Pin=DA1-4
+Added Pin To Net: NetName=TEMP-2 Pin=DA1-5
+Added Pin To Net: NetName=NetDA1_6 Pin=DA1-6
+Added Pin To Net: NetName=AIN_2 Pin=DA1-7
+Added Pin To Net: NetName=AIN_3 Pin=DA1-8
+Added Pin To Net: NetName=NetDA1_9 Pin=DA1-9
+Added Pin To Net: NetName=TEMP-3 Pin=DA1-10
+Added Pin To Net: NetName=GND Pin=DA1-11
+Added Pin To Net: NetName=TEMP-4 Pin=DA1-12
+Added Pin To Net: NetName=NetDA1_13 Pin=DA1-13
+Added Pin To Net: NetName=AIN_4 Pin=DA1-14
+Added Pin To Net: NetName=AIN_5 Pin=DA2-1
+Added Pin To Net: NetName=NetDA2_2 Pin=DA2-2
+Added Pin To Net: NetName=TEMP-5 Pin=DA2-3
+Added Pin To Net: NetName=SW-VCC Pin=DA2-4
+Added Pin To Net: NetName=TEMP-6 Pin=DA2-5
+Added Pin To Net: NetName=NetDA2_6 Pin=DA2-6
+Added Pin To Net: NetName=AIN_6 Pin=DA2-7
+Added Pin To Net: NetName=AIN_7 Pin=DA2-8
+Added Pin To Net: NetName=NetDA2_9 Pin=DA2-9
+Added Pin To Net: NetName=TEMP-7 Pin=DA2-10
+Added Pin To Net: NetName=GND Pin=DA2-11
+Added Pin To Net: NetName=NetDA2_12 Pin=DA2-12
+Added Pin To Net: NetName=COM-REF Pin=DA2-13
+Added Pin To Net: NetName=COM-REF Pin=DA2-14
+Added Pin To Net: NetName=RADIO-AVDD Pin=DA3-1
+Added Pin To Net: NetName=RADIO-AVDD Pin=DA3-2
+Added Pin To Net: NetName=RADIO-AVDD Pin=DA3-3
+Added Pin To Net: NetName=RADIO-AVDD Pin=DA3-4
+Added Pin To Net: NetName=GND Pin=DA3-5
+Added Pin To Net: NetName=GND Pin=DA3-9
+Added Pin To Net: NetName=RADIO-AVDD Pin=DA3-10
+Added Pin To Net: NetName=RADIO-AVDD Pin=DA3-14
+Added Pin To Net: NetName=RADIO-AVDD Pin=DA3-15
+Added Pin To Net: NetName=RADIO-AVDD Pin=DA3-17
+Added Pin To Net: NetName=RADIO-AVDD Pin=DA3-18
+Added Pin To Net: NetName=GND Pin=DA3-19
+Added Pin To Net: NetName=RADIO-AVDD Pin=DA3-20
+Added Pin To Net: NetName=CC2420_nRST Pin=DA3-21
+Added Pin To Net: NetName=GND Pin=DA3-22
+Added Pin To Net: NetName=GND Pin=DA3-23
+Added Pin To Net: NetName=GND Pin=DA3-24
+Added Pin To Net: NetName=RADIO-VDD Pin=DA3-25
+Added Pin To Net: NetName=RADIO-AVDD Pin=DA3-26
+Added Pin To Net: NetName=SFD Pin=DA3-27
+Added Pin To Net: NetName=CCA Pin=DA3-28
+Added Pin To Net: NetName=FIFOP Pin=DA3-29
+Added Pin To Net: NetName=FIFO Pin=DA3-30
+Added Pin To Net: NetName=CC2420_CSn Pin=DA3-31
+Added Pin To Net: NetName=SCLK Pin=DA3-32
+Added Pin To Net: NetName=SI Pin=DA3-33
+Added Pin To Net: NetName=SO Pin=DA3-34
+Added Pin To Net: NetName=RADIO-AVDD Pin=DA3-35
+Added Pin To Net: NetName=RADIO-AVDD Pin=DA3-37
+Added Pin To Net: NetName=CC2420_VREG Pin=DA3-41
+Added Pin To Net: NetName=NetDA3_42 Pin=DA3-42
+Added Pin To Net: NetName=RADIO-VDD Pin=DA3-43
+Added Pin To Net: NetName=RADIO-AVDD Pin=DA3-44
+Added Pin To Net: NetName=NetDA3_45 Pin=DA3-45
+Added Pin To Net: NetName=RADIO-AVDD Pin=DA3-48
+Added Pin To Net: NetName=GND Pin=DA3-49
+Added Pin To Net: NetName=SW-VCC Pin=DA4-1
+Added Pin To Net: NetName=VREF_2.048 Pin=DA4-2
+Added Pin To Net: NetName=GND Pin=DA4-3
+Added Pin To Net: NetName=S# Pin=DD1-1
+Added Pin To Net: NetName=SO Pin=DD1-2
+Added Pin To Net: NetName=VDD Pin=DD1-3
+Added Pin To Net: NetName=GND Pin=DD1-4
+Added Pin To Net: NetName=SI Pin=DD1-5
+Added Pin To Net: NetName=SCLK Pin=DD1-6
+Added Pin To Net: NetName=#HOLD Pin=DD1-7
+Added Pin To Net: NetName=VDD Pin=DD1-8
+Added Pin To Net: NetName=VDD Pin=DD2-1
+Added Pin To Net: NetName=AIN_5 Pin=DD2-2
+Added Pin To Net: NetName=AIN_6 Pin=DD2-3
+Added Pin To Net: NetName=AIN_7 Pin=DD2-4
+Added Pin To Net: NetName=AIN_1 Pin=DD2-5
+Added Pin To Net: NetName=NetDD2_8 Pin=DD2-8
+Added Pin To Net: NetName=NetDD2_9 Pin=DD2-9
+Added Pin To Net: NetName=VREF_2.048 Pin=DD2-10
+Added Pin To Net: NetName=GND Pin=DD2-11
+Added Pin To Net: NetName=FIFOP Pin=DD2-12
+Added Pin To Net: NetName=FIFO Pin=DD2-15
+Added Pin To Net: NetName=CCA Pin=DD2-16
+Added Pin To Net: NetName=SH_DTA Pin=DD2-17
+Added Pin To Net: NetName=SH_SCL Pin=DD2-18
+Added Pin To Net: NetName=SH_VDD Pin=DD2-19
+Added Pin To Net: NetName=FET_ON Pin=DD2-23
+Added Pin To Net: NetName=1WIRE Pin=DD2-24
+Added Pin To Net: NetName=SI Pin=DD2-29
+Added Pin To Net: NetName=SO Pin=DD2-30
+Added Pin To Net: NetName=SCLK Pin=DD2-31
+Added Pin To Net: NetName=SFD Pin=DD2-37
+Added Pin To Net: NetName=CC2420_CSn Pin=DD2-38
+Added Pin To Net: NetName=S# Pin=DD2-40
+Added Pin To Net: NetName=CC2420_VREG Pin=DD2-41
+Added Pin To Net: NetName=CC2420_nRST Pin=DD2-42
+Added Pin To Net: NetName=#HOLD Pin=DD2-43
+Added Pin To Net: NetName=LED_RED Pin=DD2-48
+Added Pin To Net: NetName=LED_GREEN Pin=DD2-49
+Added Pin To Net: NetName=LED_BLUE Pin=DD2-50
+Added Pin To Net: NetName=GND Pin=DD2-53
+Added Pin To Net: NetName=NetDD2_54 Pin=DD2-54
+Added Pin To Net: NetName=NetDD2_55 Pin=DD2-55
+Added Pin To Net: NetName=NetDD2_56 Pin=DD2-56
+Added Pin To Net: NetName=NetDD2_57 Pin=DD2-57
+Added Pin To Net: NetName=NetDD2_58 Pin=DD2-58
+Added Pin To Net: NetName=AIN_2 Pin=DD2-59
+Added Pin To Net: NetName=AIN_3 Pin=DD2-60
+Added Pin To Net: NetName=AIN_4 Pin=DD2-61
+Added Pin To Net: NetName=GND Pin=DD2-62
+Added Pin To Net: NetName=GND Pin=DD2-63
+Added Pin To Net: NetName=VDD Pin=DD2-64
+Added Pin To Net: NetName=1WIRE Pin=DD3-1
+Added Pin To Net: NetName=VDD Pin=DD3-2
+Added Pin To Net: NetName=GND Pin=DD3-3
+Added Pin To Net: NetName=GND Pin=DD4-1
+Added Pin To Net: NetName=SH_DTA Pin=DD4-2
+Added Pin To Net: NetName=SH_SCL Pin=DD4-3
+Added Pin To Net: NetName=SH_VDD Pin=DD4-4
+Added Pin To Net: NetName=VDD Pin=HL1-1
+Added Pin To Net: NetName=NetHL1_2 Pin=HL1-2
+Added Pin To Net: NetName=VDD Pin=HL2-1
+Added Pin To Net: NetName=NetHL2_2 Pin=HL2-2
+Added Pin To Net: NetName=VDD Pin=HL3-1
+Added Pin To Net: NetName=NetHL3_2 Pin=HL3-2
+Added Pin To Net: NetName=VREF_2.048 Pin=L1-1
+Added Pin To Net: NetName=VREF_2.048_FILT Pin=L1-2
+Added Pin To Net: NetName=VBAT Pin=L5-1
+Added Pin To Net: NetName=RADIO-VDD Pin=L5-2
+Added Pin To Net: NetName=VBAT Pin=L6-1
+Added Pin To Net: NetName=VDD Pin=L6-2
+Added Pin To Net: NetName=NetDA1_2 Pin=R1-1
+Added Pin To Net: NetName=COM-REF Pin=R1-2
+Added Pin To Net: NetName=NetDA1_6 Pin=R2-1
+Added Pin To Net: NetName=COM-REF Pin=R2-2
+Added Pin To Net: NetName=NetDA2_2 Pin=R3-1
+Added Pin To Net: NetName=COM-REF Pin=R3-2
+Added Pin To Net: NetName=NetDA2_6 Pin=R4-1
+Added Pin To Net: NetName=COM-REF Pin=R4-2
+Added Pin To Net: NetName=TEMP-7 Pin=R5-1
+Added Pin To Net: NetName=GND Pin=R5-2
+Added Pin To Net: NetName=TEMP-6 Pin=R6-1
+Added Pin To Net: NetName=GND Pin=R6-2
+Added Pin To Net: NetName=AIN_1 Pin=R7-1
+Added Pin To Net: NetName=NetDA1_2 Pin=R7-2
+Added Pin To Net: NetName=AIN_2 Pin=R8-1
+Added Pin To Net: NetName=NetDA1_6 Pin=R8-2
+Added Pin To Net: NetName=AIN_5 Pin=R9-1
+Added Pin To Net: NetName=NetDA2_2 Pin=R9-2
+Added Pin To Net: NetName=AIN_6 Pin=R10-1
+Added Pin To Net: NetName=NetDA2_6 Pin=R10-2
+Added Pin To Net: NetName=TEMP-5 Pin=R11-1
+Added Pin To Net: NetName=GND Pin=R11-2
+Added Pin To Net: NetName=TEMP-4 Pin=R12-1
+Added Pin To Net: NetName=GND Pin=R12-2
+Added Pin To Net: NetName=TEMP-3 Pin=R13-1
+Added Pin To Net: NetName=GND Pin=R13-2
+Added Pin To Net: NetName=TEMP-2 Pin=R14-1
+Added Pin To Net: NetName=GND Pin=R14-2
+Added Pin To Net: NetName=TEMP-1 Pin=R15-1
+Added Pin To Net: NetName=GND Pin=R15-2
+Added Pin To Net: NetName=NetDA1_13 Pin=R16-1
+Added Pin To Net: NetName=AIN_4 Pin=R16-2
+Added Pin To Net: NetName=NetDA1_9 Pin=R17-1
+Added Pin To Net: NetName=AIN_3 Pin=R17-2
+Added Pin To Net: NetName=NetDA2_9 Pin=R18-1
+Added Pin To Net: NetName=AIN_7 Pin=R18-2
+Added Pin To Net: NetName=COM-REF Pin=R19-1
+Added Pin To Net: NetName=NetDA1_13 Pin=R19-2
+Added Pin To Net: NetName=COM-REF Pin=R20-1
+Added Pin To Net: NetName=NetDA1_9 Pin=R20-2
+Added Pin To Net: NetName=COM-REF Pin=R21-1
+Added Pin To Net: NetName=NetDA2_9 Pin=R21-2
+Added Pin To Net: NetName=VREF_2.048_FILT Pin=R22-1
+Added Pin To Net: NetName=NetDA2_12 Pin=R22-2
+Added Pin To Net: NetName=NetDA2_12 Pin=R23-1
+Added Pin To Net: NetName=GND Pin=R23-2
+Added Pin To Net: NetName=GND Pin=R24-1
+Added Pin To Net: NetName=NetDA3_45 Pin=R24-2
+Added Pin To Net: NetName=RADIO-AVDD Pin=R25-1
+Added Pin To Net: NetName=NetDA3_42 Pin=R25-2
+Added Pin To Net: NetName=CC2420_VREG Pin=R26-1
+Added Pin To Net: NetName=GND Pin=R26-2
+Added Pin To Net: NetName=CC2420_nRST Pin=R27-1
+Added Pin To Net: NetName=RADIO-VDD Pin=R27-2
+Added Pin To Net: NetName=SW-VCC Pin=R28-2
+Added Pin To Net: NetName=FET_ON Pin=R29-1
+Added Pin To Net: NetName=NetDD2_58 Pin=R30-1
+Added Pin To Net: NetName=VDD Pin=R30-2
+Added Pin To Net: NetName=VDD Pin=R31-1
+Added Pin To Net: NetName=SO Pin=R31-2
+Added Pin To Net: NetName=1WIRE Pin=R32-1
+Added Pin To Net: NetName=VDD Pin=R32-2
+Added Pin To Net: NetName=VDD Pin=R33-1
+Added Pin To Net: NetName=SI Pin=R33-2
+Added Pin To Net: NetName=SH_VDD Pin=R34-1
+Added Pin To Net: NetName=SH_DTA Pin=R34-2
+Added Pin To Net: NetName=NetHL1_2 Pin=R35-1
+Added Pin To Net: NetName=LED_RED Pin=R35-2
+Added Pin To Net: NetName=NetHL2_2 Pin=R36-1
+Added Pin To Net: NetName=LED_GREEN Pin=R36-2
+Added Pin To Net: NetName=NetHL3_2 Pin=R37-1
+Added Pin To Net: NetName=LED_BLUE Pin=R37-2
+Added Pin To Net: NetName=VBAT Pin=SA1-1
+Added Pin To Net: NetName=NetSA1_2 Pin=SA1-2
+Added Pin To Net: NetName=VBAT Pin=VT1-2
+Added Pin To Net: NetName=TEMP-1 Pin=X1-1
+Added Pin To Net: NetName=TEMP-2 Pin=X1-2
+Added Pin To Net: NetName=TEMP-3 Pin=X1-3
+Added Pin To Net: NetName=TEMP-4 Pin=X1-4
+Added Pin To Net: NetName=TEMP-5 Pin=X1-5
+Added Pin To Net: NetName=TEMP-6 Pin=X1-6
+Added Pin To Net: NetName=TEMP-7 Pin=X1-7
+Added Pin To Net: NetName=VREF_2.048_FILT Pin=X1-9
+Added Pin To Net: NetName=VREF_2.048_FILT Pin=X1-10
+Added Pin To Net: NetName=VREF_2.048_FILT Pin=X1-11
+Added Pin To Net: NetName=VREF_2.048_FILT Pin=X1-12
+Added Pin To Net: NetName=VREF_2.048_FILT Pin=X1-13
+Added Pin To Net: NetName=VREF_2.048_FILT Pin=X1-14
+Added Pin To Net: NetName=VREF_2.048_FILT Pin=X1-15
+Added Pin To Net: NetName=NetDD2_58 Pin=X2-1
+Added Pin To Net: NetName=NetDD2_57 Pin=X2-2
+Added Pin To Net: NetName=NetDD2_56 Pin=X2-3
+Added Pin To Net: NetName=NetDD2_55 Pin=X2-4
+Added Pin To Net: NetName=NetDD2_54 Pin=X2-5
+Added Pin To Net: NetName=GND Pin=X2-7
+Added Pin To Net: NetName=VDD Pin=X2-8
+Added Pin To Net: NetName=NetSA1_2 Pin=XS1-1
+Added Pin To Net: NetName=NetXS1_2 Pin=XS1-2
+Added Pin To Net: NetName=NetXS1_2 Pin=XS2-1
+Added Pin To Net: NetName=GND Pin=XS2-2
+Added Pin To Net: NetName=NetDD2_9 Pin=ZQ2-1
+Added Pin To Net: NetName=NetDD2_8 Pin=ZQ2-2
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Pin To Net: NetName=NetC5_2 Pin=C7-1
+Added Pin To Net: NetName=NetC5_2 Pin=L2-1
+Added Net: Name=NetC5_2
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Pin To Net: NetName=NetC7_2 Pin=DA3-6
+Added Pin To Net: NetName=NetC7_2 Pin=L3-2
+Added Pin To Net: NetName=NetC7_2 Pin=L4-2
+Added Net: Name=NetC7_2
+Added Pin To Net: NetName=NetC9_1 Pin=C9-1
+Added Pin To Net: NetName=NetC9_1 Pin=DA3-8
+Added Pin To Net: NetName=NetC9_1 Pin=L2-2
+Added Pin To Net: NetName=NetC9_1 Pin=L4-1
+Added Net: Name=NetC9_1
+Added Pin To Net: NetName=NetC11_1 Pin=C11-1
+Added Pin To Net: NetName=NetC11_1 Pin=DA3-7
+Added Pin To Net: NetName=NetC11_1 Pin=L3-1
+Added Net: Name=NetC11_1
+Added Pin To Net: NetName=NetC19_1 Pin=C19-1
+Added Pin To Net: NetName=NetC19_1 Pin=DA3-38
+Added Pin To Net: NetName=NetC19_1 Pin=ZQ1-2
+Added Net: Name=NetC19_1
+Added Pin To Net: NetName=NetC20_1 Pin=C20-1
+Added Pin To Net: NetName=NetC20_1 Pin=DA3-39
+Added Pin To Net: NetName=NetC20_1 Pin=ZQ1-1
+Added Net: Name=NetC20_1
+Added Pin To Net: NetName=NetR28_1 Pin=R28-1
+Added Pin To Net: NetName=NetR28_1 Pin=VT1-3
+Added Net: Name=NetR28_1
+Added Pin To Net: NetName=NetR29_2 Pin=R29-2
+Added Pin To Net: NetName=NetR29_2 Pin=VT1-1
+Added Net: Name=NetR29_2
+Added Member To Class: ClassName=R Member=Component ANT1 PCB ANTENNA 2.4Ghz
+Added Member To Class: ClassName=S Member=Component C1 100n
+Added Member To Class: ClassName=S Member=Component C2 100n
+Added Member To Class: ClassName=S Member=Component C3 100n
+Added Member To Class: ClassName=S Member=Component C4 100n
+Added Member To Class: ClassName=R Member=Component C5 5.6p
+Added Member To Class: ClassName=R Member=Component C6 100n
+Added Member To Class: ClassName=R Member=Component C7 0.5p
+Added Member To Class: ClassName=R Member=Component C8 100n
+Added Member To Class: ClassName=R Member=Component C9 0.5p
+Added Member To Class: ClassName=R Member=Component C10 100n
+Added Member To Class: ClassName=R Member=Component C11 5.6p
+Added Member To Class: ClassName=R Member=Component C12 100n
+Added Member To Class: ClassName=R Member=Component C13 33p
+Added Member To Class: ClassName=R Member=Component C14 10u
+Added Member To Class: ClassName=R Member=Component C15 33p
+Added Member To Class: ClassName=R Member=Component C16 33p
+Added Member To Class: ClassName=R Member=Component C17 100n
+Added Member To Class: ClassName=R Member=Component C18 100n
+Added Member To Class: ClassName=R Member=Component C19 27p
+Added Member To Class: ClassName=R Member=Component C20 27p
+Added Member To Class: ClassName=senocore Member=Component C21 10u
+Added Member To Class: ClassName=senocore Member=Component C22 10u
+Added Member To Class: ClassName=senocore Member=Component C23 100n
+Added Member To Class: ClassName=senocore Member=Component C24 100n
+Added Member To Class: ClassName=senocore Member=Component C25 10u
+Added Member To Class: ClassName=senocore Member=Component C26 10u
+Added Member To Class: ClassName=senocore Member=Component C27 100n
+Added Member To Class: ClassName=senocore Member=Component C28 10u
+Added Member To Class: ClassName=S Member=Component DA1 OPA4376
+Added Member To Class: ClassName=S Member=Component DA2 OPA4376
+Added Member To Class: ClassName=R Member=Component DA3 CC2420
+Added Member To Class: ClassName=senocore Member=Component DA4 2.048V
+Added Member To Class: ClassName=senocore Member=Component DD1 M25P80V6
+Added Member To Class: ClassName=senocore Member=Component DD2 M430F1611
+Added Member To Class: ClassName=senocore Member=Component DD3 DS2411
+Added Member To Class: ClassName=senocore Member=Component DD4 SHT10
+Added Member To Class: ClassName=senocore Member=Component HL1 RED
+Added Member To Class: ClassName=senocore Member=Component HL2 GREEN
+Added Member To Class: ClassName=senocore Member=Component HL3 YELLOW
+Added Member To Class: ClassName=S Member=Component L1 10uH
+Added Member To Class: ClassName=R Member=Component L2 7.5nH
+Added Member To Class: ClassName=R Member=Component L3 5.6nH
+Added Member To Class: ClassName=R Member=Component L4 7.5nH
+Added Member To Class: ClassName=R Member=Component L5 10uH
+Added Member To Class: ClassName=senocore Member=Component L6 10uH
+Added Member To Class: ClassName=senocore Member=Component MH1 Mount hole pcb 3mm
+Added Member To Class: ClassName=senocore Member=Component MH2 Mount hole pcb 3mm
+Added Member To Class: ClassName=senocore Member=Component MH3 Mount hole pcb 3mm
+Added Member To Class: ClassName=senocore Member=Component MH4 Mount hole pcb 3mm
+Added Member To Class: ClassName=S Member=Component R1 20K
+Added Member To Class: ClassName=S Member=Component R2 20K
+Added Member To Class: ClassName=S Member=Component R3 20K
+Added Member To Class: ClassName=S Member=Component R4 20K
+Added Member To Class: ClassName=S Member=Component R5 10K
+Added Member To Class: ClassName=S Member=Component R6 10K
+Added Member To Class: ClassName=S Member=Component R7 10K
+Added Member To Class: ClassName=S Member=Component R8 10K
+Added Member To Class: ClassName=S Member=Component R9 10K
+Added Member To Class: ClassName=S Member=Component R10 10K
+Added Member To Class: ClassName=S Member=Component R11 10K
+Added Member To Class: ClassName=S Member=Component R12 10K
+Added Member To Class: ClassName=S Member=Component R13 10K
+Added Member To Class: ClassName=S Member=Component R14 10K
+Added Member To Class: ClassName=S Member=Component R15 10K
+Added Member To Class: ClassName=S Member=Component R16 10K
+Added Member To Class: ClassName=S Member=Component R17 10K
+Added Member To Class: ClassName=S Member=Component R18 10K
+Added Member To Class: ClassName=S Member=Component R19 20K
+Added Member To Class: ClassName=S Member=Component R20 20K
+Added Member To Class: ClassName=S Member=Component R21 20K
+Added Member To Class: ClassName=S Member=Component R22 20K
+Added Member To Class: ClassName=S Member=Component R23 20K
+Added Member To Class: ClassName=R Member=Component R24 43K
+Added Member To Class: ClassName=R Member=Component R25 0
+Added Member To Class: ClassName=R Member=Component R26 750K
+Added Member To Class: ClassName=R Member=Component R27 750K
+Added Member To Class: ClassName=senocore Member=Component R28 1
+Added Member To Class: ClassName=senocore Member=Component R29 470
+Added Member To Class: ClassName=senocore Member=Component R30 100K
+Added Member To Class: ClassName=senocore Member=Component R32 2.2K
+Added Member To Class: ClassName=senocore Member=Component R34 10K
+Added Member To Class: ClassName=senocore Member=Component R35 470
+Added Member To Class: ClassName=senocore Member=Component R36 220
+Added Member To Class: ClassName=senocore Member=Component R37 100
+Added Member To Class: ClassName=senocore Member=Component SA1 MSK-12D19
+Added Member To Class: ClassName=senocore Member=Component VT1 IRLML5103
+Added Member To Class: ClassName=S Member=Component X1 Microfit3.0 16 pins R thru hole
+Added Member To Class: ClassName=senocore Member=Component X2 DS-1026-06 2X4
+Added Member To Class: ClassName=senocore Member=Component XS1 Keystone AA Battery Clip
+Added Member To Class: ClassName=senocore Member=Component XS2 Keystone AA Battery Clip
+Added Member To Class: ClassName=R Member=Component ZQ1 16.000M
+Added Member To Class: ClassName=senocore Member=Component ZQ2 32.768K
+Added Room: Name=R
+Added Room: Name=S
+Added Room: Name=senocore
