@@ -1,0 +1,7 @@
+Change Component Comment : Designator=R30 Old Comment=100K New Comment=750K
+Change component parameters: Designator = "R30"; Footprint = "RES0402"; UniqueID = "\CFYYGEML"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Unit Price"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "WebLink"; Value = ""; VariantName = "[No Variations]"
