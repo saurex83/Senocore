@@ -1,0 +1,39 @@
+Change Value of Parameter PartNumber in Part XS1 Old= New=92
+Change Value of Parameter WebLink in Part XS1 Old=https://uk.rs-online.com/web/p/battery-holders-mounts/1726012/ New=https://www.keyelco.com/category.cfm/Cylindrical-Cell-Clips-THM-and-SMT/AA-CR2-Battery-Clips-and-Contacts/id/945
+Change Value of Parameter PartNumber in Part XS2 Old= New=92
+Change Value of Parameter WebLink in Part XS2 Old=https://uk.rs-online.com/web/p/battery-holders-mounts/1726012/ New=https://www.keyelco.com/category.cfm/Cylindrical-Cell-Clips-THM-and-SMT/AA-CR2-Battery-Clips-and-Contacts/id/945
+Added Parameter Manufacturer=China to Part ZQ2
+Added Parameter Manufacturer=International Rectifier to Part VT1
+Added Parameter Manufacturer=Keystone to Part XS1
+Added Parameter Manufacturer=Keystone to Part XS2
+Added Parameter Manufacturer=Kingbright to Part HL1
+Added Parameter Manufacturer=Kingbright to Part HL2
+Added Parameter Manufacturer=Kingbright to Part HL3
+Added Parameter Manufacturer=Maxim to Part DD3
+Added Parameter Manufacturer=Micron to Part DD1
+Added Parameter Manufacturer=Murata to Part L6
+Added Parameter Manufacturer=Sensirion to Part DD4
+Added Parameter Manufacturer=Texas Instruments to Part DA4
+Added Parameter Manufacturer=Texas Instruments to Part DD2
+Added Parameter Manufacturer=Texas Instruments to Part DD2
+Added Parameter Manufacturer=Texas Instruments to Part DD2
+Added Parameter Manufacturer=Texas Instruments to Part DD2
+Added Parameter Manufacturer= to Part C21
+Added Parameter Manufacturer= to Part C22
+Added Parameter Manufacturer= to Part C23
+Added Parameter Manufacturer= to Part C24
+Added Parameter Manufacturer= to Part C25
+Added Parameter Manufacturer= to Part C26
+Added Parameter Manufacturer= to Part C27
+Added Parameter Manufacturer= to Part R30
+Added Parameter Manufacturer= to Part SA1
+Added Parameter Manufacturer= to Part X2
+Added Parameter Manufacturer=Yageo to Part R28
+Added Parameter Manufacturer=Yageo to Part R29
+Added Parameter Manufacturer=Yageo to Part R31
+Added Parameter Manufacturer=Yageo to Part R32
+Added Parameter Manufacturer=Yageo to Part R33
+Added Parameter Manufacturer=Yageo to Part R34
+Added Parameter Manufacturer=Yageo to Part R35
+Added Parameter Manufacturer=Yageo to Part R36
+Added Parameter Manufacturer=Yageo to Part R37
