@@ -1,0 +1,9 @@
+Change Value of Parameter Manufacturer in Part HL1 Old=Kingbright New=G-nor Electronics
+Change Value of Parameter PartNumber in Part HL1 Old=L-1394IDT New=GNL-3012HD
+Change Value of Parameter WebLink in Part HL1 Old=https://www.chipdip.ru/product/l-1394id-t New=https://www.chipdip.ru/product/gnl-3012hd
+Change Value of Parameter Manufacturer in Part HL2 Old=Kingbright New=G-nor Electronics
+Change Value of Parameter PartNumber in Part HL2 Old=L-1394GDT New=GNL-3012GD
+Change Value of Parameter WebLink in Part HL2 Old=https://www.chipdip.ru/product/l-1394gd-t New=https://www.chipdip.ru/product/gnl-3012gd
+Change Value of Parameter Manufacturer in Part HL3 Old=Kingbright New=G-nor Electronics
+Change Value of Parameter PartNumber in Part HL3 Old=L-1394YDT New=GNL-3012YD
+Change Value of Parameter WebLink in Part HL3 Old=https://www.chipdip.ru/product/l-1394yd-t New=https://www.chipdip.ru/product/gnl-3012yd
